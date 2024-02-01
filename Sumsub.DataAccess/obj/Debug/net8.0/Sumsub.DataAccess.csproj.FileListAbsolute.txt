@@ -1,0 +1,12 @@
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/bin/Debug/net8.0/Sumsub.DataAccess.deps.json
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/bin/Debug/net8.0/Sumsub.DataAccess.dll
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/bin/Debug/net8.0/Sumsub.DataAccess.pdb
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.csproj.AssemblyReference.cache
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.AssemblyInfo.cs
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.dll
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/refint/Sumsub.DataAccess.dll
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/Sumsub.DataAccess.pdb
+/Users/daniel/RiderProjects/Sumsub/Sumsub.DataAccess/obj/Debug/net8.0/ref/Sumsub.DataAccess.dll
